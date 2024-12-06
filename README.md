@@ -26,4 +26,4 @@ To get started with WhatsApp Mini ReactNative Project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chatconnect.git
+   git clone https://github.com/hbr-dev/WhatsApp-Project.git
